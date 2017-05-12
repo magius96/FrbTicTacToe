@@ -1,0 +1,30 @@
+﻿This version of Tic-Tac-Toe was built using FlatRedBall.
+
+FlatRedBall is a game development engine and toolkit\nthat is available free to the public.
+
+Programming
+Jason Yarber (Magius96)
+
+Support
+Victor Chelaru
+LuckyNight
+
+Artwork
+Jason Yarber (Magius96)
+
+Paintings
+Childe Hassam - Bridge over the stour
+Gerda Wallander - Barplockande barn en sommardag
+John Reinhard Weguelin - Mermaid (1911)
+Turner - The Slave Ship
+Widder Dunavecse 1939
+
+Sound Effects
+Caroline Ford - Small Scrape
+Joe Lamb - Sad Trombone
+Mike Koenig - Ta Da
+Natalie Wendt - Bubble Gum Pop
+Sebastian - Click2
+
+Music
+Jason Shaw at audionautix.com
